@@ -15,7 +15,6 @@ En este repositorio vas a encontrar dos sistemas de ABM (Alta, Baja y Modificaci
 
 ### Versión en C
 ```bash
-cd c
 gcc main.c -o abm
 ./abm
 ```
