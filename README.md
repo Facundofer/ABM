@@ -16,7 +16,7 @@ En este repositorio vas a encontrar dos sistemas de ABM (Alta, Baja y Modificaci
 ### Versión en C
 ```bash
 gcc main.c -o abm
-./abm
+./a.out
 ```
 
 ### Versión en Python
